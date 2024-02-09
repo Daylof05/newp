@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527566934221",
+    "project_id": "newp-dca5a",
+    "storage_bucket": "newp-dca5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527566934221:android:d9ab9ac5654e4152a45984",
+        "android_client_info": {
+          "package_name": "com.newp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN0wpM6xeuwWLm6KM_0JHAXGDd8GUlRM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
